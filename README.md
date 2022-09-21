@@ -11,9 +11,9 @@ The model will be evaluated on the MSE/RMSE of your predictions on a test set.
  
 Problem Statement :-
      
-     Club Mahindra (Club M) makes significant revenue from Food and Beverages (F&B) sales in their resorts. 
+ Club Mahindra (Club M) makes significant revenue from Food and Beverages (F&B) sales in their resorts. 
  The members of Club M are offered a wide variety of items in either buffet or À la carte form.
-  Following are some benefits that the model to predict the spend by a member in their next visit to a resort will bring:
+ Following are some benefits that the model to predict the spend by a member in their next visit to a resort will bring:
 
 Predicting the F&B spend of a member in a resort would help in improving the pre-sales during resort booking.
 Targeted campaigns to suit the member taste and preference of F&B .
